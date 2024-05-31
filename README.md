@@ -1,2 +1,2 @@
 # SearchEngine
-Search engine Implementation, based on the DFS algorithm,  which crawls over all pages of a given website . Using Kafka , Redis , ElasticSearch and Doker
+Designed and implemented a search engine using the DFS algorithm. Employed Kafka, Redis, and Elasticsearch for efficient crawling and content extraction from specified URLs.
